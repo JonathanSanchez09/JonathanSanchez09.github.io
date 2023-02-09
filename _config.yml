@@ -15,7 +15,7 @@ website: www.github.com/JonathanSanchez09/JonathanSanchez09.github.io
 darkmode: true
 
 # Social links
-twitter_username: facespics
+twitter_username: Byjonny09
 github_username: JonathanSanchez09
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -25,7 +25,7 @@ instagram_username: Byjonny09
 linkedin_username: sanchez-lozano-jonathan-336726265
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: jonathansanchezlozano2386
+youtube_username: JONATHAN SANCHEZ LOZANO
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Los mejores proyectos que veras
+        title: Los mejores proyectos que verás
         link: github.com/JonathanSanchez09
         # link_text: Project Website
         additional_links:
